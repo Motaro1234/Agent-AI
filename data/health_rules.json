@@ -1,0 +1,48 @@
+{
+  
+  "base_limit_mg_per_kg": 3,
+  "max_safe_mg": 400,
+
+
+  "risk_rules": {
+    
+    "hypertension": 100,
+    "Arrhythmia": 80,
+    "Panic disorder": 0,
+    "insomnia": 100,
+    "gerd" : 100,
+    "gastritis": 100,
+    "Hyperthyroidism": 100,
+    "pregnancy": 200
+  },
+
+  "drink_restrictions": {
+    "insomnia": {
+      "avoid_after": "12:00",
+      "avoid_category": ["strong"]
+    },
+    "heart_disease": {
+      "avoid_category": ["strong", "energy"]
+    },
+    "hypertension": {
+      "max_per_serving": 80
+    }
+  },
+
+  "goal_rules": {
+    "focus": {
+      "strategy": "spread",
+      "max_single_dose": 80
+    },
+    "wake_up": {
+      "strategy": "morning_boost",
+      "max_single_dose": 120
+    },
+    "workout": {
+      "strategy": "pre_workout",
+      "time_before_minutes": 45
+    }
+  }
+
+
+}

@@ -1,0 +1,5 @@
+โรคความดันโลหิตสูง (Hypertension)
+โรคหัวใจเต้นผิดจังหวะ (Arrhythmia)
+โรคนอนไม่หลับเรื้อรัง (Insomnia)
+โรคกรดไหลย้อน / กระเพาะอักเสบ (GERD / Gastritis)
+ไทรอยด์เป็นพิ (Hyperthyroidism)
